@@ -1,0 +1,11 @@
+{
+  "name": "crm",
+  "version": "68.0",
+  "dependOn": [
+    {
+      "name": "service1",
+      "version": "1.0",
+      "limit": 100
+    }
+  ]
+}

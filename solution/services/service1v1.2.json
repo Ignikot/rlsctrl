@@ -1,0 +1,16 @@
+{
+  "name": "service1",
+  "version": "1.0",
+  "dependOn": [
+    {
+      "name": "service2",
+      "version": "1.0",
+      "limit": 100
+    },
+    {
+      "name": "service3",
+      "version": "1.0",
+      "limit": 100
+    }
+  ]
+}

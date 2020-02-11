@@ -1,0 +1,11 @@
+{
+  "name": "ib",
+  "version": "100.0",
+  "dependOn": [
+    {
+      "name": "service2",
+      "version": "1.0",
+      "limit": 100
+    }
+  ]
+}
